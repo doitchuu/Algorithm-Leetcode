@@ -3,13 +3,13 @@
  * @param {number} target
  * @return {number[]}
  */
-const twoSum = function(nums, target) {
-    for (let i = 0; i < nums.length; i++) {
+var twoSum = function(nums, target) {
+    for (let i = 0; i < nums.length - 1; i++) {
         for (let j = i + 1; j < nums.length; j++) {
-            if (nums[i] + nums[j] === target) {
-                const output = [i, j];
+            const sum = nums[i] + nums[j];
 
-                return output;
+            if (sum === target) {
+                return [i, j];
             }
         }
     }
