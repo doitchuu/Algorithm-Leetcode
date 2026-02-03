@@ -24,4 +24,12 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
