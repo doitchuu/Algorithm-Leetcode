@@ -17,6 +17,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -33,8 +34,13 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
