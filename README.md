@@ -9,6 +9,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 | [0001-two-sum](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0704-binary-search](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0733-flood-fill) |
 ## Backtracking
 |  |
@@ -66,4 +67,8 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0733-flood-fill) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
