@@ -10,17 +10,18 @@
  * @param {ListNode} head
  * @return {boolean}
  */
-const hasCycle = (head) => {
-  let fast = head;
-  
-  while (fast && fast.next) {
-    head = head.next;
-    fast = fast.next.next;
-    
-    if (head === fast) {
-      return true;
+var hasCycle = function(head) {
+    const isVisited = new Set();
+    let current = head;
+
+    while (current !== null) {
+        if (isVisited.has(current)) {
+            return true;
+        }
+
+        isVisited.add(current);
+        current = current.next; 
     }
-  }
-  
-  return false;
-};
+
+    return false;
+}
