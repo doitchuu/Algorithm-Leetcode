@@ -14,13 +14,13 @@ var hasCycle = function(head) {
     const isVisited = new Set();
     let current = head;
 
-    while (current !== null) {
+    while (current) {
         if (isVisited.has(current)) {
             return true;
         }
 
         isVisited.add(current);
-        current = current.next; 
+        current = current.next;
     }
 
     return false;
