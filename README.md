@@ -74,4 +74,16 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0704-binary-search) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
