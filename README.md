@@ -52,10 +52,12 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -66,6 +68,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -86,4 +89,8 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
