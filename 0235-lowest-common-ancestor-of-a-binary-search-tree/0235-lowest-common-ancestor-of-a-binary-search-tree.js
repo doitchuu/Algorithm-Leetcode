@@ -16,7 +16,7 @@ var lowestCommonAncestor = function(root, p, q) {
   const small = Math.min(p.val, q.val);
   const big = Math.max(p.val, q.val);
 
-  while (root !== null) {
+  while (root) {
     if (big < root.val) {
       root = root.left;
     } else if (small > root.val) {
