@@ -18,8 +18,6 @@ var solution = function(isBadVersion) {
      * @return {integer} The first bad version
      */
     return function(n) {
-        // 해당 함수에서는 가장 최근의 나쁜 버전을 return 
-        // n개 버전이 있다. 근데 맨 중간꺼를 확인해서, <- -> 빼면 되는 거긴함 
         let start = 1;
         let end = n;
 
