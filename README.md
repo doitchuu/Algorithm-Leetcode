@@ -76,6 +76,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0704-binary-search) |
 ## Stack
 |  |
@@ -93,4 +94,8 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
