@@ -22,6 +22,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 | [0141-linked-list-cycle](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0409-longest-palindrome) |
 ## Linked List
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 | [0125-valid-palindrome](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0409-longest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,4 +115,8 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
