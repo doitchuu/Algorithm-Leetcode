@@ -45,6 +45,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -104,4 +105,12 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
