@@ -28,10 +28,12 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
