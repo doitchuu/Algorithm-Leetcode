@@ -2,17 +2,17 @@
  * @param {number[]} nums
  * @return {number}
  */
-function majorityElement(nums) {
-    let candidate = null;
-    let count = 0;
+var majorityElement = function(nums) {
+    // 배열엔 항상 다수의 원소가 존재한다.
+    // 다만, n / 2개 이상인 다수의 원소를 노출한다.
+    const map = new Map();
+    const majorElement = [];
 
-    for (let num of nums) {
-      if (count === 0) {
-        candidate = num;
-      }
-      
-      count += (num === candidate) ? 1 : -1;
+    for (let i = 0; i < nums.length; i++) {
+        map.set(nums[i], (map.get(nums[i]) || 0) + 1);
+
+        if (map.get(nums[i]) >= nums.length / 2) {
+            return nums[i];
+        }
     }
-
-    return candidate;
-}
+};
