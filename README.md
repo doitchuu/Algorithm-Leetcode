@@ -9,6 +9,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 | [0001-two-sum](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0733-flood-fill) |
 ## Backtracking
@@ -20,6 +21,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 | ------- |
 | [0001-two-sum](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0409-longest-palindrome) |
@@ -54,6 +56,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
@@ -108,6 +111,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0383-ransom-note) |
 ## Math
 |  |
@@ -121,4 +125,8 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0409-longest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
