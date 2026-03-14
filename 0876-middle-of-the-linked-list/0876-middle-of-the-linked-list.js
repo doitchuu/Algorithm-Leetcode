@@ -23,7 +23,6 @@ var middleNode = function(head) {
     map.set(index, current);
 
     let middle = Math.ceil(map.size / 2);
-    // middle = middle % 2 === 0 ? middle + 1 : middle;
 
     return map.get(middle);
 };
