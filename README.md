@@ -64,12 +64,14 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -77,11 +79,13 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0543-diameter-of-binary-tree) |
