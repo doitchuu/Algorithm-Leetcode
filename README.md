@@ -62,6 +62,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 | ------- |
 | [0070-climbing-stairs](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
