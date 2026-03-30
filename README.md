@@ -7,6 +7,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0169-majority-element) |
@@ -51,6 +52,7 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0242-valid-anagram) |
@@ -160,4 +162,8 @@ Leetcode 알고리즘 문제를 풀고 기록하기 위한 레포입니다.
 | ------- |
 | [0067-add-binary](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0844-backspace-string-compare) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/doitchuu/Algorithm-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
